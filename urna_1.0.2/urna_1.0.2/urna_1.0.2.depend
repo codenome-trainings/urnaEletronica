@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1428117677 source:c:\users\codenome\documents\github\urna_1.0.2\urna_1.0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<locale.h>
+	<conio.h>
+
+1428117677 source:c:\users\codenome\documents\github\urnaeletronica\urna_1.0.2\urna_1.0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<locale.h>
+	<conio.h>
+
